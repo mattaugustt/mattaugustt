@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá! Eu sou o Matheus.
 
-<!--
-**mattaugustt/mattaugustt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando como monitor do curso de Análise de Dados na instituição Senac RJ.
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
+- 👯 Procuro colaborar em squads de desenvolvimento full-stack.
+- 🤔 Estou procurando ajuda com JavaScript.
+- 💬 Pergunte-me sobre desenvolvimento back-end com Python.
+- 📫 Como entrar em contato comigo: <br>
+E-mail: mataugusto1999@gmail.com <br>
+Linkedin: https://www.linkedin.com/in/mattaugustt/ <br>
 
-Here are some ideas to get you started:
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Curiosidades: <br>
+Utilizador de JavaScript para analises geoespaciais (de sensoriamento remoto) no Google Earth Engine. <br>
+Programador Python com experiência nas seguintes bibliotecas: NumPy, Pandas, Matplotlib, Scipy e Tkinter. <br>
+Já estudei as linguagens C/C++
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href=''>
+    <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=radical&include_all_commits=true&count_private=true'/>
+    <img heght='200cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&layout=compact'/>
+</div>
+
+<div style="display: inline_block">
+  
+</div>
