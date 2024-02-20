@@ -39,4 +39,3 @@ Conhecimentos básicos em C e C++.
 </div>
 <br>
 
-![Snake animation](https://github.com/mattaugustt/mattaugustt/blob/output/github-contribution-grid-snake.svg)
