@@ -14,7 +14,7 @@ Conhecimentos básicos em C e C++.
 
 <div class='cartoes'>
   <a href=''>
-    <img align='center' height='180cm' src='https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=radical&include_all_commits=true&count_private=true'/>
+    <img align='center' height='180cm' src='https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact'/>
     <img align='center' heght='200cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&layout=compact'/>
 </div>
 
