@@ -1,17 +1,22 @@
 ### Olá! Eu sou o Matheus.
 ##
+Graduando em Ciências Matemáticas e da Terra pela Universidade Federal do Rio de Janeiro (UFRJ). <br>
+Análista de Dados formado por Senac RJ.
+
 - 🔭 Atualmente estou trabalhando como monitor do curso de Análise de Dados na instituição Senac RJ.
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
 - 👯 Procuro colaborar em squads de desenvolvimento full-stack.
 - 🤔 Estou procurando ajuda com JavaScript.
 - 💬 Pergunte-me sobre desenvolvimento em Python.
 - 😄 Pronomes: Ele/Dele.
-- ⚡ Curiosidades: <br>
+
+##
 Utilizador de JavaScript para analises geoespaciais (de sensoriamento remoto) no Google Earth Engine. <br>
+Nível básico em SQL (PostgreSQL e MySQL). <br>
 Programador Python com experiência nas seguintes bibliotecas: NumPy, Pandas, Matplotlib, Scipy e Tkinter. <br>
 Conhecimentos básicos em C e C++.
-<br>
 
+## 
 <div class='cartoes'>
   <a href=''>
     <img align='center' height='180cm' src='https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact'/>
@@ -27,6 +32,11 @@ Conhecimentos básicos em C e C++.
   <img align='center' heght='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
   <img align='center' heght='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />          
+
+  <img align='center' heght='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  
+  <img align='center' heght='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
 </div>
 
 ##
