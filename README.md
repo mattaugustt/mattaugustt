@@ -3,7 +3,7 @@
 Graduando em Ciências Matemáticas e da Terra pela Universidade Federal do Rio de Janeiro (UFRJ). <br>
 Análista de Dados formado por Senac RJ.
 
-- 🔭 Atualmente estou trabalhando como monitor do curso de Análise de Dados na instituição Senac RJ.
+- 🔭 Atualmente aluno de Iniciação Científica no Laboratório Espaço (UFRJ) e monitor da disciplina de Geoprocessamento (24.2).
 - 🌱 Atualmente estou aprendendo HTML, CSS, PHP e JavaScript.
 - 👯 Procuro colaborar em squads de desenvolvimento full-stack.
 - 🤔 Estou procurando ajuda com JavaScript.
