@@ -12,8 +12,9 @@ Análista de Dados formado por Senac RJ.
 
 ##
 Utilizador de JavaScript para analises geoespaciais (de sensoriamento remoto) no Google Earth Engine. <br>
-Nível básico em SQL (PostgreSQL e MySQL). <br>
+Nível intermediário em SQL (PostgreSQL e MySQL). <br>
 Programador Python com experiência nas seguintes bibliotecas: NumPy, Pandas, Matplotlib, Scipy e Tkinter. <br>
+Analista de Dados em R. <br>
 Conhecimentos básicos em C e C++.
 
 ## 
