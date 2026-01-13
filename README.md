@@ -1,10 +1,22 @@
-### Olá! Eu sou o Matheus.
+<div align="center">
+  <h2>Olá! Eu sou o Matheus.</h2>
+  
+  <p>
+    <b>Graduando em Ciências Matemáticas e da Terra (UFRJ)</b><br>
+    Ênfase em Sensoriamento Remoto e Geoprocessamento.<br>
+    Analista de Dados formado pelo Senac RJ.
+  </p>
+  
+  <a href="mailto:mataugusto1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mattaugustt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mattaugustt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/Mattaugustto/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
 
-**Graduando em Ciências Matemáticas e da Terra (UFRJ)** | Ênfase em Sensoriamento Remoto e Geoprocessamento. <br>
-Analista de Dados formado pelo Senac RJ.
+<br>
 
----
-- 🔭 Atualmente sou **Assistente de Desenvolvimento** na Digimap e **Pesquisador de Iniciação Científica** no Laboratório ESPAÇO de Sensoriamento Remoto e Estudos Ambientais (UFRJ).
+--- 
+- 🔭 Atualmente sou **Assistente de Desenvolvimento** na Digimap e **Pesquisador de Iniciação Científica** no Laboratório ESPAÇO (UFRJ).
 - 📚 Atuei como Monitor de **Geoprocessamento** e de **Projeto em Sensoriamento Remoto** na UFRJ e publiquei trabalho nos anais do **SBSR** sobre séries temporais com algoritmo LandTrendr.
 - 🎓 Atuei como Monitor no Curso de **Formação em Análise de Dados** do Senac RJ em parceria com a Resilia Educação.
 - 🌱 Atualmente estou aprofundando conhecimentos em **Inteligência Artificial** e **Desenvolvimento de Banco de Dados**.
@@ -26,14 +38,6 @@ Analista de Dados formado pelo Senac RJ.
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/mattaugustt">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&layout=compact&theme=radical"/>
-  </a>
-</div>
-
-<br>
 
 <div align="center" style="display: inline-block">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -48,12 +52,16 @@ Analista de Dados formado pelo Senac RJ.
 
 <br>
 
-<div align="center">
-  <a href="mailto:mataugusto1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/mattaugustt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mattaugustt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/Mattaugustto/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div>
-<br>
 
----
+<div align="center">
+
+### 📊 Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mattaugustt&theme=dracula)](https://git.io/streak-stats)
+
+![Matheus Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&size_weight=0.5&count_weight=0.5)
+
+<br>
+</div>
