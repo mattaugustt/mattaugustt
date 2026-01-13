@@ -1,21 +1,26 @@
 ### Olá! Eu sou o Matheus.
-##
-Graduando em Ciências Matemáticas e da Terra pela Universidade Federal do Rio de Janeiro (UFRJ). <br>
-Análista de Dados formado por Senac RJ.
 
-- 🔭 Atualmente aluno de Iniciação Científica no Laboratório Espaço (UFRJ) e monitor da disciplina de Geoprocessamento (24.2).
-- 🌱 Atualmente estou aprendendo HTML, CSS, PHP e JavaScript.
-- 👯 Procuro colaborar em squads de desenvolvimento full-stack.
-- 🤔 Estou procurando ajuda com JavaScript.
-- 💬 Pergunte-me sobre desenvolvimento em Python.
+**Graduando em Ciências Matemáticas e da Terra (UFRJ)** | Ênfase em Sensoriamento Remoto e Geoprocessamento. <br>
+Analista de Dados formado pelo Senac RJ.
+
+- 🔭 Atualmente sou **Assistente de Desenvolvimento** na Digimap e **Pesquisador de Iniciação Científica** no Laboratório ESPAÇO (UFRJ).
+- 📚 Atuei como Monitor de **Geoprocessamento** e de **Projeto em Sensoriamento Remoto** na UFRJ e publiquei trabalho nos anais do **SBSR** sobre séries temporais com algoritmo LandTrendr.
+- 🌱 Atualmente estou aprofundando conhecimentos em **Inteligência Artificial** e **Desenvolvimento de Banco de Dados**.
+- 👯 Procuro colaborar em projetos de **Análise Espacial**, **Sensoriamento Remoto** e **Automação com Python**.
+- 💬 Pergunte-me sobre **Google Earth Engine**, **Processamento de Imagens** e **Python**.
 - 😄 Pronomes: Ele/Dele.
 
-##
-Utilizador de JavaScript para analises geoespaciais (de sensoriamento remoto) no Google Earth Engine. <br>
-Nível intermediário em SQL (PostgreSQL e MySQL). <br>
-Programador Python com experiência nas seguintes bibliotecas: NumPy, Pandas, Matplotlib, Scipy e Tkinter. <br>
-Analista de Dados em R. <br>
-Conhecimentos básicos em C e C++.
+---
+
+### 🛠️ Ferramentas e Tecnologias
+
+* **Geotecnologias:** Google Earth Engine (JS/Python), ArcGIS e QGIS.
+* **Dados Espaciais:** Manipulação e análise de séries temporais de satélites (Landsat/Sentinel).
+* **Python:** Experiência com Pandas, GeoPandas, NumPy, Matplotlib e automação de scripts.
+* **Banco de Dados:** Nível intermediário em SQL (PostgreSQL e MySQL).
+* **Outras Linguagens:** R (Análise de Dados), PHP, HTML/CSS e noções de C/C++.
+
+---
 
 ## 
 <div class='cartoes'>
@@ -37,6 +42,10 @@ Conhecimentos básicos em C e C++.
   <img align='center' heght='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   
   <img align='center' heght='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+  <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+
+  <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
           
 </div>
 
