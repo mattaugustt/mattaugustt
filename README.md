@@ -59,7 +59,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mattaugustt&theme=dracula)](https://git.io/streak-stats)
 
+<br>
+
 ![Matheus Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=dracula)
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&size_weight=0.5&count_weight=0.5)
 
