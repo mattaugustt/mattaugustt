@@ -57,15 +57,18 @@
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mattaugustt&theme=dracula)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Matheus Augusto's GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&layout=compact&theme=dracula&hide=php,html,css&cache_seconds=1800" alt="Top Langs" />
+</a>
 
-<br>
+<br><br>
 
-![Matheus Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=dracula)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&size_weight=0.5&count_weight=0.5)
+<a href="https://github.com/milesj/github-streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=mattaugustt&theme=dracula" alt="GitHub Streak" />
+</a>
 
 <br>
 </div>
