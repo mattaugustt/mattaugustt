@@ -60,10 +60,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattaugustt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1" alt="Matheus Augusto's GitHub stats" />
+    <img src="https://github-readme-stats-peqa2zcpr-mataugusto1999-2398s-projects.vercel.app/api?username=mattaugustt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Matheus Augusto's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattaugustt&layout=compact&theme=dracula&hide=php,html,css&v=1" alt="Top Langs" />
+    <img src="https://github-readme-stats-peqa2zcpr-mataugusto1999-2398s-projects.vercel.app/api/top-langs/?username=mattaugustt&layout=compact&theme=dracula&hide=php,html,css" alt="Top Langs" />
   </a>
 </p>
 
