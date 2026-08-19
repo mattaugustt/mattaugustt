@@ -23,7 +23,7 @@
 - 📚 Atuei como Monitor de **Geoprocessamento** e de **Projeto em Sensoriamento Remoto** na UFRJ e publiquei trabalhos nos anais do **SBSR** e na **Coleção Estudos Cariocas** sobre séries temporais com algoritmo LandTrendr.
 - 🎓 Atuei como Monitor no Curso de **Formação em Análise de Dados** do Senac RJ em parceria com a Resilia Educação.
 - 🌱 Atualmente estou aprofundando conhecimentos em **Inteligência Artificial** e **Desenvolvimento de Banco de Dados**.
-- 👯 Procuro colaborar em projetos de **Análise Espacial**, **Sensoriamento Remoto** e **Automação com Python**.
+- 👯 Procuro colaborar em projetos de **Análise espacial**, **Sensoriamento remoto**, **Automação com Python**, **Desenvolvimento de software**.
 - 💬 Pergunte-me sobre **Google Earth Engine**, **Processamento de Imagens** e **Python**.
 - 😄 Pronomes: Ele/Dele.
 
